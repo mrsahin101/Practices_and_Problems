@@ -206,10 +206,6 @@ void findSum(void)
             }
         }
     }
-    
-    
-    
-        
 }
 void arrageDigits(void)
 {
